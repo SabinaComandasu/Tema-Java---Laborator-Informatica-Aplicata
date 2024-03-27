@@ -1,0 +1,4 @@
+Homework.Java-1.6. Proiectați diagramele UML si scrieți cod/eventual metode stub pentru Clasele
+Persoană, Adresă, Profesor, Student, Curs și următoarele metode: addStudentToCourse,
+removeStudentFromCourse, addTeacherToCourse, RemoveTeacherFromCourse,
+changeTeacherAddress, ChangeStudentAddress, createNewCourse from list of students and teacher.
