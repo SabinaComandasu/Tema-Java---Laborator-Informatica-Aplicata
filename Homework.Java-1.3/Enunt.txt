@@ -1,0 +1,2 @@
+Homework.Java-1.3. Suprascrieți toString() dintr-o clasă astfel încât să returneze toate atributele
+clasei, într-un format custom.
