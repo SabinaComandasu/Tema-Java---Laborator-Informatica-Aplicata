@@ -1,0 +1,1 @@
+Homework.Java-1.22. Calculați suma a două numere citite de la tastatură. Folosiți Excepții și NULL. 
