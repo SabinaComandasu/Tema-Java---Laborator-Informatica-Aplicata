@@ -1,0 +1,3 @@
+Homework.Java-1.19. Ordonați o list/vector/etc de Student (atributele nume și notă) după atributul
+nota. Nu scrieți cod pentru a implementa nici una dintre metodele cunoscute de sortare (Quick, bubble,
+insert etc).
