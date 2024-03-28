@@ -1,0 +1,3 @@
+Homework.Java-1.24. Considerați un fișier care poate conține numere întregi, float sau șiruri
+oarecare. Scrieți o clasă care calculează suma tuturor numerelor întregi din fișier, ignorându-le pe toate
+celelalte. Tratați excepțiile. 
