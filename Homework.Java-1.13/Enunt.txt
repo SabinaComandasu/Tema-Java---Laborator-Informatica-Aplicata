@@ -1,0 +1,3 @@
+Homework.Java-1.13. Citiți un număr x dintr-un fișier și calculați valoarea 2*x. Pentru orice eroare
+posibilă, x are valoarea implicită 1. Afișati valoarea calculată. Organizați codul folosind excepții, metode,
+clase.
