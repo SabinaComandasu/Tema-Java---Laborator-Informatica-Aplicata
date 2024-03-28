@@ -1,0 +1,2 @@
+Rezolvați ecuația ax+b=0 în toate cazurile folosind clase, null, Exceptii, Excepții
+Custom. 
