@@ -1,0 +1,6 @@
+Homework.Java-1.11. Scrieți codul aferent următoarelor clase și generați o diagramă UML
+corespunzătoare. Creați o interfață Shape (atribut culoare și metodă getPerimetru). Extindeți interfața la
+clasa abstractă Shape2D (metodă abstractă getAria) respectiv Shape3D (metodă abstractă getVolum).
+Implementați Shape în clasa segmentDeDreapta (un segment de dreaptă din geometrie). Extindeți
+Shape2D și Shape3D la pătrat, cerc respectiv sferă și cub. Efectuați modificările necesare elementelor
+claselor pentru a afișa.
