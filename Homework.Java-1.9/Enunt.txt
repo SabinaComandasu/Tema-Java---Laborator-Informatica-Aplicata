@@ -1,0 +1,2 @@
+Homework.Java-1.9. Implementați diagramă UML Figure 1. 5 Clasa Robot. Folosiți metode stub.
+Instanțiați clasa Robot și investigați apelarea tuturor metodele. 
