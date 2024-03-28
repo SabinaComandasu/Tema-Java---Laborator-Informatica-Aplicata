@@ -1,0 +1,4 @@
+Homework.Java-1.8. Design classes to reflect relations between: Person, Tourist, Hotel, Address, City.
+Implement the following actions: change address for a Hotel/Person/Tourist, Tourist moves to another
+Hotel, get all hotels in a city, display all tourists in a city hotels, is a person accommodated in some city
+hotels ? display all persons and tourists
