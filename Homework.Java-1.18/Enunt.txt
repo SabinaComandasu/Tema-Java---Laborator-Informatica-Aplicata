@@ -1,0 +1,3 @@
+Homework.Java-1.18. Creați o Listă de numere întregi si ordonați-o folosind metode și/sau clase
+predefinite sau un API și afișati lista. Nu scrieți cod pentru a implementa nici una dintre metodele
+cunoscute de sortare (Quick, bubble, insert etc) 
