@@ -1,0 +1,36 @@
+Homework.Java-1.14. Modificați Exemplul 1.14 astfel încât utilizatorul să repete citirea unei valori
+numerice până aceasta este număr întreg. 
+
+Exemplul 1.14 Suma a două numere folosind excepții
+
+import java.util.InputMismatchException;
+import java.util.Scanner;
+
+public class App {
+    int readNumber() throws InputMismatchException {
+        Scanner in = new Scanner(System.in);
+        return in.nextInt();
+    }
+
+    public static void main(String[] args) {
+        App app1 = new App();
+        Integer nr, sum;
+        sum = 0;
+        
+        try {
+            nr = app1.readNumber();
+            sum += nr;
+        } catch (InputMismatchException ex) {
+            System.err.println("Value is not a number");
+        }
+        
+        try {
+            nr = app1.readNumber();
+            sum += nr;
+        } catch (InputMismatchException ex) {
+            System.err.println("Value is not a number");
+        }
+        
+        System.out.println("Suma:" + sum);
+    }
+}
